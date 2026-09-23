@@ -15,4 +15,4 @@ The site is designed as a lightweight static portfolio that can be deployed with
 ## Contact
 
 - GitHub: https://github.com/adarsh23saji
-- LinkedIn: https://www.linkedin.com/in/adarshs-031869355
+- LinkedIn: https://www.linkedin.com/in/adarsh-s-031869355
